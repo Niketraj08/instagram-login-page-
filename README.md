@@ -4,9 +4,6 @@ A modern, responsive Instagram clone built with React that replicates the core u
 
 ![Instagram Clone](https://img.shields.io/badge/React-18.2.0-blue) ![Vite](https://img.shields.io/badge/Vite-5.2.0-646CFF) ![Instagram](https://img.shields.io/badge/Instagram-Clone-red)
 
-## ✨ Features
-
-
 
 
 ## 📋 Prerequisites
