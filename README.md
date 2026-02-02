@@ -6,6 +6,7 @@ A modern, responsive Instagram clone built with React that replicates the core u
 
 ## ✨ Features
 
+
 ### 🔐 Authentication
 - **Login Page** - Clean login interface with form validation
 - **Signup Page** - Complete registration form with real-time validation
