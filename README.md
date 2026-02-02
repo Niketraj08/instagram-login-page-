@@ -26,22 +26,8 @@ A modern, responsive Instagram clone built with React that replicates the core u
 
 This project is for educational purposes only. Instagram is a trademark of Meta Platforms, Inc. This project is not affiliated with, endorsed by, or sponsored by Instagram or Meta Platforms, Inc.
 
-## 🙏 Acknowledgments
 
-- **Instagram** - For the original design inspiration
-- **React Team** - For the amazing React framework
-- **Vite Team** - For the fast build tool
-- **Open Source Community** - For the valuable tools and libraries
 
-## 📞 Support
-
-If you have any questions or issues, feel free to:
-- Open an issue on GitHub
-- Check the documentation
-- Review the code comments
-
----
-
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [Niket Raj]**
 
 *Last updated: February 2026*
