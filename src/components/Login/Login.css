@@ -1,0 +1,352 @@
+.ou{
+    position: absolute;
+}
+
+
+.form_apps_googleplay {
+    height: 40px;
+    width: 134px;
+}
+
+.form_apps_microsoft {
+    height: 40px;
+    width: 110px;
+}
+
+.form_container {
+    margin-top: 50px;
+    width: 358px;
+    height: 404px;
+    border-radius: 0px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #dbdbdb;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: top;
+    flex-direction: column;
+}
+
+.form_or {
+    font-size: 12px;
+    color: #5d5d5d;
+}
+
+.form_recover_password {
+    font-size: 12px;
+    margin-top: 12px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    color: #385185;
+}
+
+
+.form_signup {
+    color: #4bb4f8;
+    text-decoration: none;
+}
+
+.form_signup_link {
+    display: block;
+    text-align: center;
+    font-size: 14px;
+    color: #0095f6;
+    text-decoration: none;
+    font-weight: 600;
+    margin: 15px 0 10px 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    transition: color 0.2s;
+}
+
+.form_signup_link:hover {
+    color: #0064e0;
+    text-decoration: underline;
+}
+
+.textGetApp {
+    align-items: center;
+}
+
+.form_logo {
+    width: 180px;
+    height: 70px;
+    cursor: pointer;
+    margin-top: 33px;
+}
+
+.form_hr_container {
+    align-items: center;
+    grid-row: auto;
+    justify-content: center;
+    flex-direction: row;
+    display: flex;
+    gap: 10px;
+    position: relative;
+    top: 30px;
+}
+
+.form_login_light {
+    height: 36px;
+    width: 268px;
+    border: none;
+    background-color: #4bb4f8;
+    border-style: solid;
+    border-width: 1px;
+    color: #ffffff;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 10px;
+    font-weight: 600;
+    top: 95px;
+}
+
+.form_login_dark {
+    height: 36px;
+    width: 268px;
+    border: none;
+    background-color: #0095f6;
+    border-style: solid;
+    border-width: 1px;
+    color: #ffffff;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 10px;
+    font-weight: 600;
+    top: 95px;
+}
+
+.form_hr {
+    width: 110px;
+    color: #e6e6e6e9;
+    border-radius: 1px;
+    border-style: solid;
+}
+
+.login_container {
+    height: 630px;
+    width: 350px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: -20px;
+    left: -11px;
+}
+
+
+.form_apps_container {
+    height: 53;
+    width: 350px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+    top: 20px;
+}
+
+.form_apps {
+    height: 53;
+    width: 350px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.form_facebook_button {
+    border: none;
+    cursor: pointer;
+}
+
+.form_facebook {
+    font-weight: 620;
+    font-size: 14px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    margin-top:65px;
+    color: #385185;
+    cursor: pointer;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+.form_create_account {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 0px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #dbdbdb;
+    width: 360px;
+    height: 63px;
+    font-weight: 500;
+    font-size: 14px;
+}
+.form_config_div_input{
+    display: flex;
+    flex-direction: column;
+    top: 28px;
+    position: relative;
+    gap: 6px;
+    height: 160px;
+    width: 268px;
+}
+
+.form_input {
+    position: relative;
+}
+
+.form_input input {
+    padding: 10px 0px 8px 8px !important;
+    border: 1px solid #ece6e6;
+    border-radius: 2px;
+    outline: none;
+    font-size: 15px;
+    font-family: var(--font-family-system);
+    background-color: rgb(250 250 250);
+    width: 249px;
+    margin-block: 2.5px;
+    }
+
+
+.form_input input:not(:placeholder-shown)+label {
+    padding: 0 0 0px 10px !important;
+    top: 3px;
+    left: -0px ;
+    color: #8e8e8e;
+    font-size: 10px;
+}
+
+.form_input input:not(:placeholder-shown) {
+    top: -10px;
+    padding: 14px 0px 0px 10px!important;
+    height: 21.3px;
+    width: 247px;
+}
+
+
+.form_input label {
+    position: absolute;
+    top: 15px;
+    font-size: 12px;
+    left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #8e8e8e;
+    pointer-events: none;
+    transition: 0.2s;
+    justify-content: center;
+    align-items: center;
+}
+/* Enhanced responsive styles for login card */
+@media only screen and (max-width: 768px) {
+    .login_container {
+        width: 100%;
+        max-width: 350px;
+        margin-top: 0;
+        left: 0;
+        padding: 20px;
+    }
+
+    .form_container {
+        width: 100%;
+        max-width: 350px;
+        border: none;
+        margin-top: 20px;
+    }
+
+    .form_logo {
+        width: 160px;
+        height: 60px;
+        margin-top: 20px;
+    }
+
+    .form_config_div_input {
+        width: 100%;
+        max-width: 268px;
+    }
+
+    .form_input input {
+        width: 100%;
+        max-width: 249px;
+    }
+
+    .form_login_light,
+    .form_login_dark {
+        width: 100%;
+        max-width: 268px;
+    }
+
+    .form_create_account {
+        width: 100%;
+        max-width: 350px;
+        margin-top: 20px;
+    }
+
+    .form_apps_container {
+        width: 100%;
+        max-width: 350px;
+        top: 40px;
+    }
+
+    .form_apps {
+        width: 100%;
+        max-width: 350px;
+    }
+}
+
+@media only screen and (max-width: 453px) {
+    .login_container {
+        padding: 10px;
+        margin-top: -50px;
+    }
+
+    .form_container {
+        border-style: none;
+        top: 10px;
+        padding: 20px;
+    }
+
+    .form_create_account {
+        border-style: none;
+        position: relative;
+        top: 30px;
+    }
+
+    .form_apps_container {
+        top: 95px;
+    }
+
+    .form_logo {
+        width: 140px;
+        height: 50px;
+    }
+}
+
+.form_login_dark:hover,.form_login_dark:active {
+
+    background-color: #0064e0;
+
+    }
+
+.error-message {
+    color: #ed4956;
+    font-size: 12px;
+    margin-top: 4px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
