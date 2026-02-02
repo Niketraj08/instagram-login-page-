@@ -28,7 +28,6 @@ function SignUp() {
       <div className="signup_form_container">
         <div className="signup_header">
           <img className="signup_logo" src={image_instagram} alt="Instagram" />
-          <h2 className="signup_title">Sign up to see photos and videos from your friends.</h2>
         </div>
 
         <button className="signup_facebook_btn" type="button">
