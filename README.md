@@ -7,40 +7,7 @@ A modern, responsive Instagram clone built with React that replicates the core u
 ## ✨ Features
 
 
-### 🔐 Authentication
-- **Login Page** - Clean login interface with form validation
-- **Signup Page** - Complete registration form with real-time validation
-- **Form Validation** - Yup schema validation with error handling
-- **Responsive Design** - Works seamlessly across all devices
 
-### 🎨 User Interface
-- **Instagram-style Design** - Authentic look and feel
-- **Phone Mockup** - Interactive phone display component
-- **Modern UI Components** - Clean, polished interface elements
-- **Smooth Animations** - Hover effects and transitions
-
-### 📱 Responsive Layout
-- **Desktop Optimized** - Perfect desktop experience
-- **Tablet Support** - Responsive tablet layouts
-- **Mobile Friendly** - Touch-optimized mobile interface
-- **Cross-browser Compatible** - Works on all modern browsers
-
-### 🛠️ Technical Features
-- **React 18** - Latest React with modern hooks
-- **React Router** - Client-side routing
-- **React Hook Form** - Efficient form management
-- **Vite** - Fast development and build tool
-- **ESLint** - Code quality and consistency
-
-## 🚀 Tech Stack
-
-- **Frontend Framework:** React 18.2.0
-- **Build Tool:** Vite 5.2.0
-- **Routing:** React Router DOM 7.13.0
-- **Forms:** React Hook Form 7.71.1
-- **Validation:** Yup 1.4.0
-- **Styling:** CSS3 with Flexbox/Grid
-- **Icons:** Custom PNG assets
 
 ## 📋 Prerequisites
 
